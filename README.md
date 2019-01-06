@@ -13,8 +13,15 @@ I may use clustering here, density maps, do some research to analyze which super
 
 Perhaps I may perform some sentiment analysis on the restaurant reviews to analyze the type of crowd in the area and find a correlation to the Airbnb prices nearby?
 
+### Open Data Citation
+
 The data sets can be obtained from the open data links from:
 ##### **1** “Data retrieved from Uber Movement, (c) 2019 Uber Technologies, Inc., https://movement.uber.com”
 
 ##### **2** Data.seattle.gov. (2019). Seattle Cultural Space Inventory Map. [online] Available at: https://data.seattle.gov/Community/Seattle-Cultural-Space-Inventory-Map/pknd-dutm [Accessed 6 Jan. 2019].
 
+##### **3** Inside Airbnb. (2019). Inside Airbnb. Adding data to the debate.. [online] Available at: http://insideairbnb.com/get-the-data.html [Accessed 6 Jan. 2019].
+
+##### **4** Yelp.com. (2019). Yelp Dataset. [online] Available at: https://www.yelp.com/dataset [Accessed 6 Jan. 2019].
+
+##### **5** The Ticketmaster Developer Portal. (2019). Getting Started. [online] Available at: https://developer.ticketmaster.com/products-and-docs/apis/getting-started/ [Accessed 6 Jan. 2019].
