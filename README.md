@@ -25,3 +25,6 @@ The data sets can be obtained from the open data links from:
 ##### **4** Yelp.com. (2019). Yelp Dataset. [online] Available at: https://www.yelp.com/dataset [Accessed 6 Jan. 2019].
 
 ##### **5** The Ticketmaster Developer Portal. (2019). Getting Started. [online] Available at: https://developer.ticketmaster.com/products-and-docs/apis/getting-started/ [Accessed 6 Jan. 2019].
+
+
+### Data Analysis Process: CRISP -DM
