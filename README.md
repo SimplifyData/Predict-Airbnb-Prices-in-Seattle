@@ -28,4 +28,9 @@ The data sets can be obtained from the open data links from:
 
 
 ### Data Analysis Process: CRISP-DM
-
+**Cross Industry Standard Process for Data Mining**
+1) Business Understanding : Predict Seattle Airbnb prices.
+2) Data Understanding
+3) Data Preparation
+4) Modeling
+5) Evaluation
