@@ -105,3 +105,9 @@ venv.bak/
 *.xml
 *.iml
 Data/Yelp/Dataset_Challenge_Dataset_Agreement.pdf
+Data/Yelp/yelp_academic_dataset_business.json
+Data/Yelp/yelp_academic_dataset_checkin.json
+Data/Yelp/yelp_academic_dataset_photo.json
+Data/Yelp/yelp_academic_dataset_review.json
+Data/Yelp/yelp_academic_dataset_tip.json
+Data/Yelp/yelp_academic_dataset_user.json
