@@ -34,3 +34,9 @@ The data sets can be obtained from the open data links from:
 3) Data Preparation
 4) Modeling
 5) Evaluation
+
+### Python Libraries used for the Project
+1) Numpy
+2) Pandas
+3) Matplotlib
+4) Numba
