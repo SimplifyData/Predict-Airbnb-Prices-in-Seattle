@@ -12,3 +12,6 @@ If the Uber traffic is high, there are busy restaurants, popular restaurants and
 I may use clustering here, density maps, do some research to analyze which supervised machine learning algorithm will be used when I combine all the features from different data sources.
 
 Perhaps I may perform some sentiment analysis on the restaurant reviews to analyze the type of crowd in the area and find a correlation to the Airbnb prices nearby?
+
+The data sets can be obtained from the open data links from:
+** “Data retrieved from Uber Movement, (c) 2019 Uber Technologies, Inc., https://movement.uber.com”
