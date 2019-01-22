@@ -51,3 +51,5 @@ The data sets can be obtained from the open data links from:
 
 7) A Quick Introduction to K-Nearest Neighbors Algorithm. Retrieved from
 https://medium.com/@adi.bronshtein/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7
+
+8) A Complete Guide to K-Nearest-Neighbors with Applications in Python and R. (n.d.). Retrieved from https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/
