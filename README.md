@@ -49,4 +49,5 @@ The data sets can be obtained from the open data links from:
 
 6) Devlin, J. (2018, February 06). Machine Learning Fundamentals: Predicting Airbnb Prices. Retrieved from https://www.dataquest.io/blog/machine-learning-tutorial/
 
-7) https://medium.com/@adi.bronshtein/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7
+7) A Quick Introduction to K-Nearest Neighbors Algorithm. Retrieved from
+https://medium.com/@adi.bronshtein/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7
