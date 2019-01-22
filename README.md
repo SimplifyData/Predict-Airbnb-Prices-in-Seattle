@@ -48,3 +48,5 @@ The data sets can be obtained from the open data links from:
 5) The Ticketmaster Developer Portal. (2019). Getting Started. [online] Available at: https://developer.ticketmaster.com/products-and-docs/apis/getting-started/ [Accessed 6 Jan. 2019].
 
 6) Devlin, J. (2018, February 06). Machine Learning Fundamentals: Predicting Airbnb Prices. Retrieved from https://www.dataquest.io/blog/machine-learning-tutorial/
+
+7) https://medium.com/@adi.bronshtein/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7
