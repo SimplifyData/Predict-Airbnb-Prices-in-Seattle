@@ -57,3 +57,5 @@ https://medium.com/@adi.bronshtein/a-quick-introduction-to-k-nearest-neighbors-a
 9) Avila, J., & Hauck, T. (2017, November). Scikit-learn Cookbook - Second Edition -Tuning an AdaBoost regressor. Retrieved January 22, 2019, from https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787286382/9/ch09lvl1sec95/tuning-an-adaboost-regressor
 
 10) Srivastava, T. (2018, April 26). Tuning Random Forest model | Machine Learning | Predictive modeling. Retrieved from https://www.analyticsvidhya.com/blog/2015/06/tuning-random-forest-model/
+
+11) Singh, A. (2018, September 04). A Practical Introduction to K-Nearest Neighbor for Regression. Retrieved from https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/
