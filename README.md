@@ -1,6 +1,6 @@
 # Predict Airbnb Prices in Seattle
 
-Predict Airbnb Prices in Seattle using open data from Airbnb, Uber Movement, Yelp, City of Seattle & Ticket Master
+Predict Airbnb Prices in Seattle using open data from Airbnb, Uber Movement, Yelp, & City of Seattle
 
 This data science analysis will take into consideration the available data from Airbnb to analyze prices in difference areas in Seattle.
 I am incorporating Uber Movement - Seattle ride data to analyze the traffic and public flow in the areas to predict popularity of the areas. 
