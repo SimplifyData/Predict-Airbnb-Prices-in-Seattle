@@ -1,5 +1,7 @@
 # Predict Airbnb Prices in Seattle
 
+https://medium.com/@atif.zafar/5-important-facts-you-need-to-know-about-seattle-airbnb-before-booking-reservation-online-4e86faa02b07
+
 Predict Airbnb Prices in Seattle using open data from Airbnb, Uber Movement, Yelp, & City of Seattle
 
 This data science analysis will take into consideration the available data from Airbnb to analyze prices in difference areas in Seattle.
