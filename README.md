@@ -30,6 +30,9 @@ Perhaps I may perform some sentiment analysis on the restaurant reviews to analy
 ### Business Questions:
 1) How does number of reviews drive the Airbnb Prices in Seattle.
 2) How competent and stable are the Airbnb prices dependent on popularity of a place?
+
+Due to running out of time, the next questions will remain unasnwered in this anlysis.
+
 3) How does Uber traffic in an area drive the prices and number of reviews of Airbnb places?
 4) How does popularity and quality of restaurants (Yelp) reflects on the Airbnb prices in the area?
 5) Does proximity to places and events drives reviews and prices of Airbnb places? 
